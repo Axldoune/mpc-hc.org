@@ -1,5 +1,6 @@
-*.pyc
-/build
+# gedit backup files
+*.*~
+/_site
 /node_modules
 /npm-debug.log
 /source/2012

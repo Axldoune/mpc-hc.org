@@ -1,0 +1,11 @@
+#baseurl: /
+exclude: [bootstrap-info.md, LICENSE.md, node_modules, make.js, package.json, README.md, run-tests.js]
+markdown: kramdown
+#permalink: /blog/:year-:month-:day/:title
+#root: "/"
+safe: true
+version:
+  short: 1.7.0
+  long: 1.7.0.7858
+  hash: "a1ef5bd"
+url: "http://mpc-hc.org/"
